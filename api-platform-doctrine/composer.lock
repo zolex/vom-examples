@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "445cfd6b5892ea6aac306bbebd1ebab1",
+    "content-hash": "a83216fa26fc12df1ac7acc30933766e",
     "packages": [
         {
             "name": "api-platform/core",
@@ -444,16 +444,16 @@
         },
         {
             "name": "doctrine/dbal",
-            "version": "3.8.1",
+            "version": "3.8.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/dbal.git",
-                "reference": "c9ea252cdce4da324ede3d6c5913dd89f769afd2"
+                "reference": "a19a1d05ca211f41089dffcc387733a6875196cb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/dbal/zipball/c9ea252cdce4da324ede3d6c5913dd89f769afd2",
-                "reference": "c9ea252cdce4da324ede3d6c5913dd89f769afd2",
+                "url": "https://api.github.com/repos/doctrine/dbal/zipball/a19a1d05ca211f41089dffcc387733a6875196cb",
+                "reference": "a19a1d05ca211f41089dffcc387733a6875196cb",
                 "shasum": ""
             },
             "require": {
@@ -537,7 +537,7 @@
             ],
             "support": {
                 "issues": "https://github.com/doctrine/dbal/issues",
-                "source": "https://github.com/doctrine/dbal/tree/3.8.1"
+                "source": "https://github.com/doctrine/dbal/tree/3.8.2"
             },
             "funding": [
                 {
@@ -553,7 +553,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-02-03T17:33:49+00:00"
+            "time": "2024-02-12T18:36:36+00:00"
         },
         {
             "name": "doctrine/deprecations",
@@ -5953,16 +5953,16 @@
         },
         {
             "name": "zolex/vom",
-            "version": "0.0.11",
+            "version": "0.0.13",
             "source": {
                 "type": "git",
                 "url": "https://github.com/zolex/vom.git",
-                "reference": "09cdb6c01df6458c2be062752f81208fb983e9e5"
+                "reference": "247cc891d8b620c341ad24846d5418599ab168d5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/zolex/vom/zipball/09cdb6c01df6458c2be062752f81208fb983e9e5",
-                "reference": "09cdb6c01df6458c2be062752f81208fb983e9e5",
+                "url": "https://api.github.com/repos/zolex/vom/zipball/247cc891d8b620c341ad24846d5418599ab168d5",
+                "reference": "247cc891d8b620c341ad24846d5418599ab168d5",
                 "shasum": ""
             },
             "require": {
@@ -5999,9 +5999,9 @@
             "description": "Versatile Object Mapper",
             "support": {
                 "issues": "https://github.com/zolex/vom/issues",
-                "source": "https://github.com/zolex/vom/tree/0.0.11"
+                "source": "https://github.com/zolex/vom/tree/0.0.13"
             },
-            "time": "2024-02-13T14:12:18+00:00"
+            "time": "2024-02-15T15:56:33+00:00"
         }
     ],
     "packages-dev": [
