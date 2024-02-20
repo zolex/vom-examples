@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "1e11c08bb59532f365f55e9d65ed13e0",
+    "content-hash": "68facf26f9448691673555aec1ab77ef",
     "packages": [
         {
             "name": "doctrine/deprecations",
@@ -165,16 +165,16 @@
         },
         {
             "name": "phpdocumentor/type-resolver",
-            "version": "1.8.0",
+            "version": "1.8.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpDocumentor/TypeResolver.git",
-                "reference": "fad452781b3d774e3337b0c0b245dd8e5a4455fc"
+                "reference": "bc3dc91a5e9b14aa06d1d9e90647c5c5a2cc5353"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpDocumentor/TypeResolver/zipball/fad452781b3d774e3337b0c0b245dd8e5a4455fc",
-                "reference": "fad452781b3d774e3337b0c0b245dd8e5a4455fc",
+                "url": "https://api.github.com/repos/phpDocumentor/TypeResolver/zipball/bc3dc91a5e9b14aa06d1d9e90647c5c5a2cc5353",
+                "reference": "bc3dc91a5e9b14aa06d1d9e90647c5c5a2cc5353",
                 "shasum": ""
             },
             "require": {
@@ -217,9 +217,9 @@
             "description": "A PSR-5 based resolver of Class names, Types and Structural Element Names",
             "support": {
                 "issues": "https://github.com/phpDocumentor/TypeResolver/issues",
-                "source": "https://github.com/phpDocumentor/TypeResolver/tree/1.8.0"
+                "source": "https://github.com/phpDocumentor/TypeResolver/tree/1.8.1"
             },
-            "time": "2024-01-11T11:49:22+00:00"
+            "time": "2024-01-18T19:15:27+00:00"
         },
         {
             "name": "phpstan/phpdoc-parser",
@@ -2975,16 +2975,16 @@
         },
         {
             "name": "zolex/vom",
-            "version": "0.0.13",
+            "version": "0.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/zolex/vom.git",
-                "reference": "247cc891d8b620c341ad24846d5418599ab168d5"
+                "reference": "4225bdd0ed78100581d9e17a1febf3ab9123a804"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/zolex/vom/zipball/247cc891d8b620c341ad24846d5418599ab168d5",
-                "reference": "247cc891d8b620c341ad24846d5418599ab168d5",
+                "url": "https://api.github.com/repos/zolex/vom/zipball/4225bdd0ed78100581d9e17a1febf3ab9123a804",
+                "reference": "4225bdd0ed78100581d9e17a1febf3ab9123a804",
                 "shasum": ""
             },
             "require": {
@@ -3015,15 +3015,15 @@
             "authors": [
                 {
                     "name": "Andreas Linden",
-                    "email": "andreas.linden@coxautoinc.com"
+                    "email": "zlx@gmx.de"
                 }
             ],
-            "description": "Versatile Object Mapper",
+            "description": "Versatile Object Mapper. Map arbitrary data to strictly typed models using PHP attributes.",
             "support": {
                 "issues": "https://github.com/zolex/vom/issues",
-                "source": "https://github.com/zolex/vom/tree/0.0.13"
+                "source": "https://github.com/zolex/vom/tree/0.1.0"
             },
-            "time": "2024-02-15T15:56:33+00:00"
+            "time": "2024-02-20T17:52:33+00:00"
         }
     ],
     "packages-dev": [],
