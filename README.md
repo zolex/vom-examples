@@ -10,5 +10,6 @@ Each directory on the root is an individual project that contains its own readme
 
 * [without framework](./without-framework)
 * [symfony](./symfony-framework)
+* [laravel](./laravel)
 * [api-platform standard (with doctrine)](./api-platform-doctrine)
 * [api-platform with custom state](./api-platform-custom-state)
