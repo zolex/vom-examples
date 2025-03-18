@@ -15,5 +15,6 @@ symfony serve
 # or alternatively
 # php -S localhost:8000 ./public/index.php
 
-curl http://localhost:8000/vom-action
+curl http://localhost:8000/deserialize
+curl http://localhost:8000/denormalize
 ```
