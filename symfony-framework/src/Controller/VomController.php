@@ -33,7 +33,7 @@ class VomController
                 'city' => 'Worsthausen',
                 'zip' => '12345',
                 'country_name' => 'United Kingdom',
-                'email_address' => 'jane.doe@coxautoinc.com',
+                'email_address' => 'jane.doe@examplemail.com',
                 'phone' => '0123456789',
             ];
 
